@@ -132,7 +132,7 @@ body {
 \*-----------------------------------*/
 
 #hero{
-  background-image: url(/img/hero4.png);
+  background-image: url(https://raw.githubusercontent.com/Ram9525/Finit_WebD_Task/main/img/hero4.png);
   height: 90vh;
   width: 100%;
   background-size: cover;
